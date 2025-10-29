@@ -1,0 +1,27 @@
+# Material Design 3 Components Module
+module MD3Components
+
+# Buttons
+MD3Button 1.0 MD3Button.qml
+MD3IconButton 1.0 MD3IconButton.qml
+MD3FAB 1.0 MD3FAB.qml
+
+# Selection Controls
+MD3Checkbox 1.0 MD3Checkbox.qml
+MD3RadioButton 1.0 MD3RadioButton.qml
+MD3Switch 1.0 MD3Switch.qml
+
+# Input
+MD3TextField 1.0 MD3TextField.qml
+MD3Slider 1.0 MD3Slider.qml
+
+# Containers
+MD3Card 1.0 MD3Card.qml
+MD3Chip 1.0 MD3Chip.qml
+
+# Communication
+MD3Dialog 1.0 MD3Dialog.qml
+MD3Snackbar 1.0 MD3Snackbar.qml
+
+# Progress
+MD3ProgressIndicator 1.0 MD3ProgressIndicator.qml
